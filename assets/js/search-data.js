@@ -500,14 +500,14 @@ ninja.data = [{
           section: "News",},{id: "news-our-research-on-predicting-extreme-water-levels-in-the-u-s-atlantic-coast-has-been-featured-by-cnn",
           title: 'Our research on predicting extreme water levels in the U.S. Atlantic Coast has...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-cas-climate",
+          title: 'CAS-Climate',
+          description: "Collaborative Research. Nonstationarity of Compound Coastal Floods in the Anthropocene National Science Foundation. Division of Earth Sciences. Hydrologic Sciences Program.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-vasg",
+          title: 'VASG',
+          description: "Flood Impacts to Rural Coastal Communities in Virginia.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
