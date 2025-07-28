@@ -1,0 +1,3 @@
+<b>Prospective Under/Graduate Student</b>
+
+We are always looking for new members in our team. Please, send me an email with the title "Prospective Student" and a <u>SHORT</u> description of your research interests. Do not forget to attach your CV/Resume. If your academic background and research interests align with potential un/funded opportunities, I will reach out to you within a week. Thanks for your interest in joining the CoRAL Lab. 
