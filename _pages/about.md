@@ -33,7 +33,7 @@ The CoRAL Lab integrates physics-informed and data-driven models to understand c
     <div style="height: 356px; width: 280px;">
       <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/CoRAL_logo.png"
-        title="CoRAL" class="img-fluid rounded z-depth-1" %}
+        title="CoRAL Lab" class="img-fluid rounded z-depth-1" %}
       </div>
     </div>
 </div>
@@ -48,7 +48,7 @@ We aim at providing actionable flood hazard maps, adaptation and planning strate
     <div style="height: 463px; width: 517px;">
       <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Sun_Beach.png"
-        title="CoRAL" class="img-fluid rounded z-depth-1" %}
+        title="CoRAL Beach" class="img-fluid rounded z-depth-1" %}
       </div>
     </div>
 </div>
