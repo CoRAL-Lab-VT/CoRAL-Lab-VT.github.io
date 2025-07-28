@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-10th-water-prediction-innovators-summer-institute",
+        
+          title: "10th Water Prediction Innovators Summer Institute",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/summer-2025/2025/07/24/photo-gallery.html";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -71,6 +82,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/sample-posts/2024/12/04/photo-gallery.html";
+          
+        },
+      },{id: "post-chris-mansky-defended-his-master-thesis",
+        
+          title: "Chris Mansky defended his master thesis",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/spring-2024/2024/05/02/photo-gallery.html";
           
         },
       },{id: "post-a-post-with-tabs",
@@ -194,6 +216,17 @@ ninja.data = [{
             window.location.href = "/sample-posts/2023/12/12/tikzjax.html";
           
         },
+      },{id: "post-8th-water-prediction-innovators-summer-institute",
+        
+          title: "8th Water Prediction Innovators Summer Institute",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/summer-2023/2023/07/26/distill.html";
+          
+        },
       },{id: "post-a-post-with-bibliography",
         
           title: "a post with bibliography",
@@ -313,17 +346,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2021/07/04/diagrams.html";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2021/05/22/distill.html";
           
         },
       },{id: "post-a-post-with-twitter",
