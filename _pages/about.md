@@ -21,7 +21,8 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
+  
 ---
 
 The CoRAL Lab integrates physics-informed and data-driven models to understand complex compound extreme dynamics in human and natural systems. We are interested in statistical analysis, hydrodynamic modeling, machine learning, remote sensing, and data collection using drones.
