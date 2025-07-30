@@ -6,7 +6,7 @@ subtitle: <b>Co</b>mpound flood hazard and <b>R</b>isk <b>A</b>ssessment in <b>L
 
 profile:
   align: 'center'
-  image: CoRAL_logo.png
+  image: CoRAL_Logo.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
