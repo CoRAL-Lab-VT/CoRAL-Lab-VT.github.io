@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CoRAL-Lab-VT.github.io/sitemap.xml
+Sitemap: /sitemap.xml
