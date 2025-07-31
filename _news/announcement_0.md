@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our research on predicting extreme water levels in the U.S. Atlantic Coast has been featured by <a href="https://transcripts.cnn.com/show/cnr/date/2025-07-13/segment/02">CNN</a>.
+Our research on predicting extreme water levels in the U.S. Atlantic Coast has been featured by <a href="https://drive.google.com/file/d/1R8VEToLNmRHHPINEd_vJNzEEX1IDs1K8/view">CNN</a>.
