@@ -26,16 +26,16 @@ profiles:
       <p>750 Drillfield Dr</p>
       <p>Blacksburg, VA 24073</p>
   - align: center
-    image: samuel_daramola.jpg
-    content: about_samuel.md
+    image: shadman_sakib.jpg
+    content: about_shadman.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Patton Hall 108</p>
       <p>750 Drillfield Dr</p>
       <p>Blacksburg, VA 24073</p>
   - align: center
-    image: shadman_sakib.jpg
-    content: about_shadman.md
+    image: samuel_daramola.jpg
+    content: about_samuel.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Patton Hall 108</p>
