@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-16'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -78,11 +78,11 @@ papers:
     title: Unraveling Regional Differences in Storm Surge Hydrographs and Characteristics Along the US Coastlines
     year: '2025'
   bS44baIAAAAJ:JV2RwH3_ST0C:
-    citations: 136
+    citations: 134
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:K3LRdlH-MEoC:
-    citations: 0
+    citations: 1
     title: Modeling and Analysis of Sediment Trapping Efficiency of Large Dams using Remote Sensing
     year: '2022'
   bS44baIAAAAJ:LPZeul_q3PIC:
@@ -94,7 +94,7 @@ papers:
     title: Breaking Down Annual and Tropical Cyclone-induced Nonlinear Interactions in Total Water Levels
     year: '2025'
   bS44baIAAAAJ:LkGwnXOMwfcC:
-    citations: 23
+    citations: 22
     title: Fusing multisource data to estimate the effects of urbanization, sea level rise, and hurricane impacts on long-term wetland change dynamics
     year: '2021'
   bS44baIAAAAJ:M3NEmzRMIkIC:
@@ -106,7 +106,7 @@ papers:
     title: Bridging Return Period Gaps in Flood Inundation Mapping Using a Hybrid Deep Learning Approach
     year: Unknown Year
   bS44baIAAAAJ:OU6Ihb5iCvQC:
-    citations: 26
+    citations: 27
     title: Real-time coastal flood hazard assessment using DEM-based hydrogeomorphic classifiers
     year: '2021'
   bS44baIAAAAJ:PELIpwtuRlgC:
@@ -130,7 +130,7 @@ papers:
     title: Integration of Physically-Based and Data-Driven Modeling Approaches for Compound Coastal Flood Hazard Assessment Under Uncertainties
     year: '2021'
   bS44baIAAAAJ:UxriW0iASnsC:
-    citations: 72
+    citations: 74
     title: "Inter\u2010model comparison of Delft3D\u2010FM and 2D HEC\u2010RAS for total water level prediction in coastal to inland transition zones"
     year: '2022'
   bS44baIAAAAJ:V3AGJWp-ZtQC:
@@ -198,7 +198,7 @@ papers:
     title: 'Evaluating the three-cornered hat method for hourly satellite precipitation fusion in hydrological forecasting: A case study in a Tropical Andean Basin'
     year: '2026'
   bS44baIAAAAJ:bnK-pcrLprsC:
-    citations: 30
+    citations: 29
     title: Modeling and analysis of sediment trapping efficiency of large dams using remote sensing
     year: '2023'
   bS44baIAAAAJ:d1gkVwhDpl0C:
@@ -222,7 +222,7 @@ papers:
     title: Spatiotemporal modelling and assessment of water-related multi-hazards
     year: '2025'
   bS44baIAAAAJ:eQOLeE2rZwMC:
-    citations: 84
+    citations: 83
     title: Compound Effects of Flood Drivers and Wetland Elevation Correction on Coastal Flood Hazard Assessment
     year: '2020'
   bS44baIAAAAJ:eflP2zaiRacC:
@@ -238,7 +238,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 149
+    citations: 147
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -246,11 +246,11 @@ papers:
     title: "No pod\xEDamos negarnos a dar m\xE1s ox\xEDgeno al planeta"
     year: '2009'
   bS44baIAAAAJ:kRWSkSYxWN8C:
-    citations: 24
+    citations: 23
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
-    citations: 57
+    citations: 58
     title: Perspective on uncertainty quantification and reduction in compound flood modeling and forecasting
     year: '2022'
   bS44baIAAAAJ:maZDTaKrznsC:
@@ -266,7 +266,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 29
+    citations: 28
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
