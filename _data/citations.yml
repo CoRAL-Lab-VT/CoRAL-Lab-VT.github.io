@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-23'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -130,11 +130,11 @@ papers:
     title: Integration of Physically-Based and Data-Driven Modeling Approaches for Compound Coastal Flood Hazard Assessment Under Uncertainties
     year: '2021'
   bS44baIAAAAJ:UxriW0iASnsC:
-    citations: 74
+    citations: 75
     title: "Inter\u2010model comparison of Delft3D\u2010FM and 2D HEC\u2010RAS for total water level prediction in coastal to inland transition zones"
     year: '2022'
   bS44baIAAAAJ:V3AGJWp-ZtQC:
-    citations: 22
+    citations: 23
     title: Establishing flood thresholds for sea level rise impact communication
     year: '2024'
   bS44baIAAAAJ:VL0QpB8kHFEC:
@@ -238,7 +238,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 147
+    citations: 148
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -246,11 +246,11 @@ papers:
     title: "No pod\xEDamos negarnos a dar m\xE1s ox\xEDgeno al planeta"
     year: '2009'
   bS44baIAAAAJ:kRWSkSYxWN8C:
-    citations: 23
+    citations: 24
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
-    citations: 58
+    citations: 59
     title: Perspective on uncertainty quantification and reduction in compound flood modeling and forecasting
     year: '2022'
   bS44baIAAAAJ:maZDTaKrznsC:
@@ -266,7 +266,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 28
+    citations: 29
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
