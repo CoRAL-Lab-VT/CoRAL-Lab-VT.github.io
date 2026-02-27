@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-27'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Dynamic Response of Estuarine Systems to Dredging Protocols and Sea Level Rise
     year: '2022'
   bS44baIAAAAJ:5awf1xo2G04C:
-    citations: 4
+    citations: 5
     title: A cluster-based temporal attention approach for predicting cyclone-induced compound flood dynamics
     year: '2025'
   bS44baIAAAAJ:5ugPr518TE4C:
@@ -30,7 +30,7 @@ papers:
     title: "Predicting the evolution of extreme water levels with long short\u2010term memory station\u2010based approximated models and transfer learning techniques"
     year: '2025'
   bS44baIAAAAJ:738O_yMBCRsC:
-    citations: 21
+    citations: 22
     title: Compound effects of flood drivers, sea level rise, and dredging protocols on vessel navigability and wetland inundation dynamics
     year: '2022'
   bS44baIAAAAJ:8AbLer7MMksC:
@@ -130,7 +130,7 @@ papers:
     title: Integration of Physically-Based and Data-Driven Modeling Approaches for Compound Coastal Flood Hazard Assessment Under Uncertainties
     year: '2021'
   bS44baIAAAAJ:UxriW0iASnsC:
-    citations: 75
+    citations: 76
     title: "Inter\u2010model comparison of Delft3D\u2010FM and 2D HEC\u2010RAS for total water level prediction in coastal to inland transition zones"
     year: '2022'
   bS44baIAAAAJ:V3AGJWp-ZtQC:
@@ -238,7 +238,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 148
+    citations: 151
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -266,7 +266,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 29
+    citations: 30
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
