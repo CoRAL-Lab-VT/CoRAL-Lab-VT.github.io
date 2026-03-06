@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-06'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: Unraveling Regional Differences in Storm Surge Hydrographs and Characteristics Along the US Coastlines
     year: '2025'
   bS44baIAAAAJ:JV2RwH3_ST0C:
-    citations: 134
+    citations: 135
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:K3LRdlH-MEoC:
@@ -238,7 +238,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 151
+    citations: 155
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -246,7 +246,7 @@ papers:
     title: "No pod\xEDamos negarnos a dar m\xE1s ox\xEDgeno al planeta"
     year: '2009'
   bS44baIAAAAJ:kRWSkSYxWN8C:
-    citations: 24
+    citations: 25
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
@@ -266,7 +266,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 30
+    citations: 31
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
@@ -306,7 +306,7 @@ papers:
     title: 'Compound, Consecutive, and Cascading Events: Challenges for Risk Assessment and Management of Multi-hazards III Oral'
     year: '2022'
   bS44baIAAAAJ:wbdj-CoPYUoC:
-    citations: 7
+    citations: 8
     title: Enhancing runoff forecasting through the integration of satellite precipitation data and hydrological knowledge into machine learning models
     year: '2025'
   bS44baIAAAAJ:ye4kPcJQO24C:
