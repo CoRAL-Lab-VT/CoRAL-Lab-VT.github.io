@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-09'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -238,7 +238,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 155
+    citations: 154
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -250,7 +250,7 @@ papers:
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
-    citations: 59
+    citations: 60
     title: Perspective on uncertainty quantification and reduction in compound flood modeling and forecasting
     year: '2022'
   bS44baIAAAAJ:maZDTaKrznsC:
