@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-20'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: "A Comparative Analysis of Operational Multi-Method Flood Inundation Mapping: Quantifying Fidelity\u2013Accuracy Tradeoffs"
     year: Unknown Year
   bS44baIAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: Adjusting emergent herbaceous wetland elevation with object-based image analysis, random forest and the 2016 NLCD
     year: '2019'
   bS44baIAAAAJ:4fKUyHm3Qg0C:
@@ -26,7 +26,7 @@ papers:
     title: A cluster-based temporal attention approach for predicting cyclone-induced compound flood dynamics
     year: '2025'
   bS44baIAAAAJ:5ugPr518TE4C:
-    citations: 13
+    citations: 14
     title: "Predicting the evolution of extreme water levels with long short\u2010term memory station\u2010based approximated models and transfer learning techniques"
     year: '2025'
   bS44baIAAAAJ:738O_yMBCRsC:
@@ -52,7 +52,7 @@ papers:
   bS44baIAAAAJ:B3FOqHPlNUQC:
     citations: 0
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
-    year: '2022'
+    year: '2021'
   bS44baIAAAAJ:BrmTIyaxlBUC:
     citations: 0
     title: The Effects of Sea Level Rise on Future High Tide Flooding Regimes
@@ -78,7 +78,7 @@ papers:
     title: Unraveling Regional Differences in Storm Surge Hydrographs and Characteristics Along the US Coastlines
     year: '2025'
   bS44baIAAAAJ:JV2RwH3_ST0C:
-    citations: 139
+    citations: 140
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:K3LRdlH-MEoC:
@@ -134,7 +134,7 @@ papers:
     title: "Inter\u2010model comparison of Delft3D\u2010FM and 2D HEC\u2010RAS for total water level prediction in coastal to inland transition zones"
     year: '2022'
   bS44baIAAAAJ:V3AGJWp-ZtQC:
-    citations: 23
+    citations: 24
     title: Establishing flood thresholds for sea level rise impact communication
     year: '2024'
   bS44baIAAAAJ:VL0QpB8kHFEC:
@@ -202,7 +202,7 @@ papers:
     title: 'Evaluating the three-cornered hat method for hourly satellite precipitation fusion in hydrological forecasting: A case study in a Tropical Andean Basin'
     year: '2026'
   bS44baIAAAAJ:bnK-pcrLprsC:
-    citations: 31
+    citations: 32
     title: Modeling and analysis of sediment trapping efficiency of large dams using remote sensing
     year: '2023'
   bS44baIAAAAJ:d1gkVwhDpl0C:
@@ -242,7 +242,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 160
+    citations: 161
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -254,7 +254,7 @@ papers:
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
-    citations: 63
+    citations: 65
     title: Perspective on uncertainty quantification and reduction in compound flood modeling and forecasting
     year: '2022'
   bS44baIAAAAJ:maZDTaKrznsC:
@@ -270,7 +270,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 35
+    citations: 37
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
@@ -298,7 +298,7 @@ papers:
     title: Quantifying Future Effects of Low-frequency Tropical Cyclones and Sea Level Rise Scenarios on Nonlinear Interactions in Total Water Levels
     year: '2026'
   bS44baIAAAAJ:uWQEDVKXjbEC:
-    citations: 67
+    citations: 69
     title: 'Accounting for uncertainties in compound flood hazard assessment: The value of data assimilation'
     year: '2022'
   bS44baIAAAAJ:ufrVoPGSRksC:
