@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: Unraveling Regional Differences in Storm Surge Hydrographs and Characteristics Along the US Coastlines
     year: '2025'
   bS44baIAAAAJ:JV2RwH3_ST0C:
-    citations: 140
+    citations: 141
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:K3LRdlH-MEoC:
@@ -242,7 +242,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 162
+    citations: 161
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -270,7 +270,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 38
+    citations: 39
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
