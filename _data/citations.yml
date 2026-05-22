@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-22'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: "Predicting the evolution of extreme water levels with long short\u2010term memory station\u2010based approximated models and transfer learning techniques"
     year: '2025'
   bS44baIAAAAJ:738O_yMBCRsC:
-    citations: 24
+    citations: 25
     title: Compound effects of flood drivers, sea level rise, and dredging protocols on vessel navigability and wetland inundation dynamics
     year: '2022'
   bS44baIAAAAJ:8AbLer7MMksC:
@@ -78,7 +78,7 @@ papers:
     title: Unraveling Regional Differences in Storm Surge Hydrographs and Characteristics Along the US Coastlines
     year: '2025'
   bS44baIAAAAJ:JV2RwH3_ST0C:
-    citations: 141
+    citations: 146
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:K3LRdlH-MEoC:
@@ -106,7 +106,7 @@ papers:
     title: Bridging Return Period Gaps in Flood Inundation Mapping Using a Hybrid Deep Learning Approach
     year: Unknown Year
   bS44baIAAAAJ:OU6Ihb5iCvQC:
-    citations: 28
+    citations: 29
     title: Real-time coastal flood hazard assessment using DEM-based hydrogeomorphic classifiers
     year: '2021'
   bS44baIAAAAJ:PELIpwtuRlgC:
@@ -130,7 +130,7 @@ papers:
     title: Integration of Physically-Based and Data-Driven Modeling Approaches for Compound Coastal Flood Hazard Assessment Under Uncertainties
     year: '2021'
   bS44baIAAAAJ:UxriW0iASnsC:
-    citations: 79
+    citations: 81
     title: "Inter\u2010model comparison of Delft3D\u2010FM and 2D HEC\u2010RAS for total water level prediction in coastal to inland transition zones"
     year: '2022'
   bS44baIAAAAJ:V3AGJWp-ZtQC:
@@ -202,7 +202,7 @@ papers:
     title: 'Evaluating the three-cornered hat method for hourly satellite precipitation fusion in hydrological forecasting: A case study in a Tropical Andean Basin'
     year: '2026'
   bS44baIAAAAJ:bnK-pcrLprsC:
-    citations: 32
+    citations: 33
     title: Modeling and analysis of sediment trapping efficiency of large dams using remote sensing
     year: '2023'
   bS44baIAAAAJ:d1gkVwhDpl0C:
@@ -226,11 +226,11 @@ papers:
     title: Spatiotemporal modelling and assessment of water-related multi-hazards
     year: '2025'
   bS44baIAAAAJ:eQOLeE2rZwMC:
-    citations: 86
+    citations: 87
     title: Compound Effects of Flood Drivers and Wetland Elevation Correction on Coastal Flood Hazard Assessment
     year: '2020'
   bS44baIAAAAJ:eflP2zaiRacC:
-    citations: 16
+    citations: 17
     title: Integrating geographic data and the SCS-CN method with LSTM networks for enhanced runoff forecasting in a complex mountain basin
     year: '2023'
   bS44baIAAAAJ:eq2jaN3J8jMC:
@@ -242,7 +242,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 161
+    citations: 166
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
@@ -254,7 +254,7 @@ papers:
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
-    citations: 66
+    citations: 68
     title: Perspective on uncertainty quantification and reduction in compound flood modeling and forecasting
     year: '2022'
   bS44baIAAAAJ:maZDTaKrznsC:
@@ -270,7 +270,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 39
+    citations: 41
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
@@ -298,7 +298,7 @@ papers:
     title: Quantifying Future Effects of Low-frequency Tropical Cyclones and Sea Level Rise Scenarios on Nonlinear Interactions in Total Water Levels
     year: '2026'
   bS44baIAAAAJ:uWQEDVKXjbEC:
-    citations: 70
+    citations: 74
     title: 'Accounting for uncertainties in compound flood hazard assessment: The value of data assimilation'
     year: '2022'
   bS44baIAAAAJ:ufrVoPGSRksC:
