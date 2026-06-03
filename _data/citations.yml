@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-03'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -242,7 +242,7 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 167
+    citations: 166
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:hkOj_22Ku90C:
