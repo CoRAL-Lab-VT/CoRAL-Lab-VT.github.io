@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-the-coral-lab-conducts-hurricane-and-coastal-flooding-activities-as-part-of-the-kids-39-tech-university-program",
+        },{id: "post-the-coral-lab-connects-with-the-spanish-speaking-community-of-blacksburg-va",
+        
+          title: "The CoRAL Lab connects with the Spanish-speaking community of Blacksburg, VA.",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/photo-gallery/";
+          
+        },
+      },{id: "post-the-coral-lab-conducts-hurricane-and-coastal-flooding-activities-as-part-of-the-kids-39-tech-university-program",
         
           title: "The CoRAL Lab conducts hurricane and coastal flooding activities as part of the...",
         
