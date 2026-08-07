@@ -38,9 +38,7 @@ profiles:
     content: about_samuel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Patton Hall 108</p>
-      <p>750 Drillfield Dr</p>
-      <p>Blacksburg, VA 24073</p>
+  
   - align: center
     image: chris_mansky.jpg
     content: about_chris.md
