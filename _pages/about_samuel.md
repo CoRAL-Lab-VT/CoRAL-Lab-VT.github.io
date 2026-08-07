@@ -1,8 +1,11 @@
-<b>Samuel Daramola</b>
+<b>ALUMNI</b>
 
-<b>Background:</b> Marine Science and Technology, Federal University of Technology, Akure, Nigeria (2012-2017); Coastal Engineering, Hohai University, Nanjing, P.R. China (2019-2022); Civil and Environmental Engineering, Virginia Tech, Virginia, USA (2022-2026).
+<b>Dr. [Samuel Daramola](https://scholar.google.com/citations?user=1UKYLbcAAAAJ&hl=en) (2022 - 2025)</b>
 
-<b>Research Interests:</b> Coastal flooding; Deep learning; Remote sensing; Coastal morphology; UAV mapping.
+<b>Current position:</b> Postdoctoral researcher at
+[Stevens Insitute of Technology, NJ](https://web.stevens.edu/ismart/team.html).
+
+<b>Dissertation:</b> [Enhancing Compound Flood Modeling through Efficient Data-Driven, Physics-based, and Transfer Learning Frameworks](https://vtechworks.lib.vt.edu/items/86f95665-edb5-4bac-a415-b925c14314eb).
 
 <b>Hobbies:</b> Fine art drawing and playing basketball.
 
