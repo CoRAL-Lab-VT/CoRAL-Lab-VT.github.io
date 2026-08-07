@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-the-coral-lab-connects-with-the-spanish-speaking-community-of-blacksburg-va",
+        },{id: "post-md-shadman-sakib-has-been-selected-to-participate-in-the-whoi-nasa-summer-school-in-sea-level-science",
+        
+          title: "Md. Shadman Sakib has been selected to participate in the WHOI/NASA Summer School...",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/photo-gallery/";
+          
+        },
+      },{id: "post-the-coral-lab-connects-with-the-spanish-speaking-community-of-blacksburg-va",
         
           title: "The CoRAL Lab connects with the Spanish-speaking community of Blacksburg, VA.",
         
