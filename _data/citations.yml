@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-08-14'
 papers:
   bS44baIAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -26,11 +26,11 @@ papers:
     title: A cluster-based temporal attention approach for predicting cyclone-induced compound flood dynamics
     year: '2025'
   bS44baIAAAAJ:5ugPr518TE4C:
-    citations: 17
+    citations: 21
     title: "Predicting the evolution of extreme water levels with long short\u2010term memory station\u2010based approximated models and transfer learning techniques"
     year: '2025'
   bS44baIAAAAJ:738O_yMBCRsC:
-    citations: 26
+    citations: 25
     title: Compound effects of flood drivers, sea level rise, and dredging protocols on vessel navigability and wetland inundation dynamics
     year: '2022'
   bS44baIAAAAJ:8AbLer7MMksC:
@@ -69,10 +69,6 @@ papers:
     citations: 0
     title: 'Unlocking precision in flash flood forecasting: A synergistic approach using machine learning and satellite-ground integration.'
     year: '2024'
-  bS44baIAAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: Integrating estuarine hydrodynamics with remotely sensed data to assess marsh migration patterns
-    year: '2019'
   bS44baIAAAAJ:J-pR_7NvFogC:
     citations: 0
     title: Assessing the Effectiveness of the Three-Cornered Hat Method for Satellite Precipitation Data Fusion and its Impact on Runoff Forecasting
@@ -82,7 +78,7 @@ papers:
     title: Unraveling Regional Differences in Storm Surge Hydrographs and Characteristics Along the US Coastlines
     year: '2025'
   bS44baIAAAAJ:JV2RwH3_ST0C:
-    citations: 150
+    citations: 153
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:K3LRdlH-MEoC:
@@ -110,7 +106,7 @@ papers:
     title: Bridging Return Period Gaps in Flood Inundation Mapping Using a Hybrid Deep Learning Approach
     year: '2025'
   bS44baIAAAAJ:OU6Ihb5iCvQC:
-    citations: 32
+    citations: 31
     title: Real-time coastal flood hazard assessment using DEM-based hydrogeomorphic classifiers
     year: '2021'
   bS44baIAAAAJ:PELIpwtuRlgC:
@@ -134,7 +130,7 @@ papers:
     title: Integration of Physically-Based and Data-Driven Modeling Approaches for Compound Coastal Flood Hazard Assessment Under Uncertainties
     year: '2021'
   bS44baIAAAAJ:UxriW0iASnsC:
-    citations: 84
+    citations: 85
     title: "Inter\u2010model comparison of Delft3D\u2010FM and 2D HEC\u2010RAS for total water level prediction in coastal to inland transition zones"
     year: '2022'
   bS44baIAAAAJ:V3AGJWp-ZtQC:
@@ -150,7 +146,7 @@ papers:
     title: 'OS52B-0512: Physics-informed Machine Learning for Estimation of Spatially-distributed Sea Level Rise Rates and their Associated High Tide Flooding'
     year: '2023'
   bS44baIAAAAJ:W5xh706n7nkC:
-    citations: 1
+    citations: 2
     title: Towards a typology for hybrid compound flood modeling
     year: '2026'
   bS44baIAAAAJ:W7OEmFMy1HYC:
@@ -206,7 +202,7 @@ papers:
     title: 'Evaluating the three-cornered hat method for hourly satellite precipitation fusion in hydrological forecasting: A case study in a Tropical Andean Basin'
     year: '2026'
   bS44baIAAAAJ:bnK-pcrLprsC:
-    citations: 33
+    citations: 36
     title: Modeling and analysis of sediment trapping efficiency of large dams using remote sensing
     year: '2023'
   bS44baIAAAAJ:d1gkVwhDpl0C:
@@ -230,11 +226,11 @@ papers:
     title: Spatiotemporal modelling and assessment of water-related multi-hazards
     year: '2025'
   bS44baIAAAAJ:eQOLeE2rZwMC:
-    citations: 88
+    citations: 92
     title: Compound Effects of Flood Drivers and Wetland Elevation Correction on Coastal Flood Hazard Assessment
     year: '2020'
   bS44baIAAAAJ:eflP2zaiRacC:
-    citations: 17
+    citations: 19
     title: Integrating geographic data and the SCS-CN method with LSTM networks for enhanced runoff forecasting in a complex mountain basin
     year: '2023'
   bS44baIAAAAJ:eq2jaN3J8jMC:
@@ -246,11 +242,11 @@ papers:
     title: From local to regional compound flood mapping with deep learning and data fusion techniques
     year: '2021'
   bS44baIAAAAJ:geHnlv5EZngC:
-    citations: 168
+    citations: 184
     title: Fast flood extent monitoring with SAR change detection using google earth engine
     year: '2023'
   bS44baIAAAAJ:kRWSkSYxWN8C:
-    citations: 33
+    citations: 41
     title: "Nonlinear interactions of sea\u2010level rise and storm tide alter extreme coastal water levels: How and why?"
     year: '2024'
   bS44baIAAAAJ:kzcrU_BdoSEC:
@@ -258,7 +254,7 @@ papers:
     title: Characterization of tropical cyclone surge evolution
     year: '2026'
   bS44baIAAAAJ:l7t_Zn2s7bgC:
-    citations: 73
+    citations: 76
     title: Perspective on uncertainty quantification and reduction in compound flood modeling and forecasting
     year: '2022'
   bS44baIAAAAJ:maZDTaKrznsC:
@@ -274,7 +270,7 @@ papers:
     title: Wetland Dynamics and Morphological Changes due to Hurricane-induced Sediment Deposition
     year: '2021'
   bS44baIAAAAJ:q3oQSFYPqjQC:
-    citations: 46
+    citations: 51
     title: Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models
     year: '2024'
   bS44baIAAAAJ:sSrBHYA8nusC:
@@ -302,7 +298,7 @@ papers:
     title: Quantifying Future Effects of Low-frequency Tropical Cyclones and Sea Level Rise Scenarios on Nonlinear Interactions in Total Water Levels
     year: '2026'
   bS44baIAAAAJ:uWQEDVKXjbEC:
-    citations: 75
+    citations: 78
     title: 'Accounting for uncertainties in compound flood hazard assessment: The value of data assimilation'
     year: '2022'
   bS44baIAAAAJ:ufrVoPGSRksC:
@@ -314,14 +310,14 @@ papers:
     title: 'Compound, Consecutive, and Cascading Events: Challenges for Risk Assessment and Management of Multi-hazards III Oral'
     year: '2022'
   bS44baIAAAAJ:wbdj-CoPYUoC:
-    citations: 8
+    citations: 10
     title: Enhancing runoff forecasting through the integration of satellite precipitation data and hydrological knowledge into machine learning models
     year: '2025'
   bS44baIAAAAJ:ye4kPcJQO24C:
-    citations: 0
+    citations: 5
     title: Escalating high tide flooding along the Atlantic and Gulf Coast of the United States due to sea level rise
     year: '2025'
   bS44baIAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Generalizing multi-reward functions aimed at identifying the best locations to install flow control devices in sewer systems
     year: '2019'
