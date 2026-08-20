@@ -43,33 +43,58 @@ The CoRAL lab develops compound flood experiments and hands-on activities to edu
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div>
     </div>
+    <div style="height: 347px; width: 512px;">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div>
+    </div>
+    <div style="height: 347px; width: 512px;">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div>
+    </div>
 </div>
 <div class="caption">
     K-8 students learn about compound flood hazards, sea level rise, and land subsidence with age-appropriated "Compound-Flood-in-a-Bin" experiments.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div style="height: 347px; width: 512px;">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div style="height: 347px; width: 512px;">    
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
+    <div style="height: 347px; width: 512px;">    
+            <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+    </div>    
 </div>
 <div class="caption">
     K-8 and K-12 students learn about hurricane formation, scales, and components.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div style="height: 347px; width: 512px;">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div style="height: 347px; width: 512px;">    
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+    <div style="height: 347px; width: 512px;">    
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+    </div>    
 </div>
 <div class="caption">
     The "Compound-Flood-in-a-Bin" experiments lead to engaging discussions with students, parents, and school-teachers of real hurricane events and compound flooding in coastal systems worldwide.
