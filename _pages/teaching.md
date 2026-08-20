@@ -18,11 +18,15 @@ The CoRAL Lab trains the next generation workforce of compound flood modelers at
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/CompoundFLoodHazard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/CompoundFLoodHazard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/CompoundFLoodHazard_Fall2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+    <div class="col-sm mt-3 mt-md-0">    
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/CompoundFLoodHazard_Fall2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+    </div>    
 </div>
 <div class="caption">
     Graduate students receive specialized training in compound flood modeling and hazard assessment. Every Fall, graduate students learned how to simulate pluvial, fluvial, and coastal flooding and design flood hazard scenarios by linking statistical analysis and 2D hydrodynamic modeling. So proud of this new generation of flood modelers! #GoHokies
