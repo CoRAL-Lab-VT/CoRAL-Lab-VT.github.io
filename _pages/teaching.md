@@ -17,12 +17,12 @@ The CoRAL Lab trains the next generation workforce of compound flood modelers at
 
 
 <div class="row mt-3">
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/CompoundFLoodHazard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>
-    <div style="height: 325px;">    
+    <div style="height: 200px;">    
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/CompoundFLoodHazard_Fall2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
@@ -37,22 +37,22 @@ The CoRAL Lab trains the next generation workforce of compound flood modelers at
 The CoRAL lab develops compound flood experiments and hands-on activities to educate elementary and middle schoolers about hurricanes, flooding, flood adaptation, and wetland resilience strategies in <b>English</b> and <b>Spanish</b>. 
 
 <div class="row mt-3">
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div>
     </div>
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div>
     </div>
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div>
     </div>
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div>
@@ -63,18 +63,18 @@ The CoRAL lab develops compound flood experiments and hands-on activities to edu
 </div>
 
 <div class="row mt-3">
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>
-    <div style="height: 325px;">    
+    <div style="height: 200px;">    
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>
-    <div style="height: 325px;">    
-            <div class="col-sm mt-3 mt-md-0">
+    <div style="height: 200px;">    
+        <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>    
@@ -84,17 +84,17 @@ The CoRAL lab develops compound flood experiments and hands-on activities to edu
 </div>
 
 <div class="row mt-3">
-    <div style="height: 325px;">
+    <div style="height: 200px;">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>
-    <div style="height: 325px;">    
+    <div style="height: 200px;">    
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>
-    <div style="height: 325px;">    
+    <div style="height: 200px;">    
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/Education_Outreach/KT11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
